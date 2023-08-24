@@ -1,6 +1,6 @@
 {
   "name": "ng-mat-select-infinite-scroll",
-  "version": "4.0.0",
+  "version": "15.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HaidarZ/ng-mat-select-infinite-scroll.git"
+    "url": "https://github.com/Jase7/ng-mat-select-infinite-scroll.git"
   }
 }
